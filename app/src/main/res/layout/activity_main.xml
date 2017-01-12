@@ -10,8 +10,9 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.yourdream.accessibilityservice.MainActivity">
 
-    <TextView
+    <Button
+        android:onClick="startPlugin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="微信抢红包" />
+        android:text="开启插件" />
 </RelativeLayout>

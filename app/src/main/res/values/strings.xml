@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AccessibilityService</string>
+    <string name="description">微信自动化</string>
 </resources>
